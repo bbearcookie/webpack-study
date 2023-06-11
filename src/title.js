@@ -1,0 +1,1 @@
+export const titleText = '웹팩을 통해 하나의 파일로 번들링했습니다.';
