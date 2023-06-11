@@ -1,1 +1,0 @@
-export const helloText = '안녕하세요!';
